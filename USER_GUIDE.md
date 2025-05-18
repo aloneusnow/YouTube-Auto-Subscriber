@@ -8,7 +8,6 @@
 5. [Usage](#usage)
 6. [Troubleshooting](#troubleshooting)
 7. [FAQ](#frequently-asked-questions)
-8. [Support](#support)
 
 ## System Requirements
 
