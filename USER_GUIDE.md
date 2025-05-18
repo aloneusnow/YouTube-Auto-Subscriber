@@ -185,20 +185,5 @@ Check these files for error details:
 - Yes, but each instance should use a different account
 - Be aware of system resource usage
 
-## Support
-
-### Documentation
-- [Official Documentation](https://github.com/yourusername/youtube-subscriber-bot/wiki)
-- [Video Tutorials](https://youtube.com/yourchannel)
-
-### Getting Help
-1. Check the [FAQ](#frequently-asked-questions)
-2. Search the [Issues](https://github.com/yourusername/youtube-subscriber-bot/issues)
-3. Create a new issue if your problem isn't listed
-
-### Community
-- [Discord Server](https://discord.gg/yourinvite)
-- [Reddit Community](https://reddit.com/r/yourcommunity)
-
 ---
 *Last Updated: May 2024*
